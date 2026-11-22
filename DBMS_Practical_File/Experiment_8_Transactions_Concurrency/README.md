@@ -135,3 +135,4 @@ COMMIT; -- Lock released
 ---
 
 - **Executable SQL Script:** [`transactions_concurrency.sql`](file:///c:/Users/ojhas/Downloads/DBMS_LAB_FILE/DBMS_Practical_File/Experiment_8_Transactions_Concurrency/transactions_concurrency.sql)
+

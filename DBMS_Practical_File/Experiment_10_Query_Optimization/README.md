@@ -191,3 +191,4 @@ GROUP BY C.customer_id, C.customer_name;
 ---
 
 - **Executable SQL Script:** [`query_optimization.sql`](file:///c:/Users/ojhas/Downloads/DBMS_LAB_FILE/DBMS_Practical_File/Experiment_10_Query_Optimization/query_optimization.sql)
+

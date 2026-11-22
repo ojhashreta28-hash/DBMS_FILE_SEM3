@@ -325,3 +325,4 @@ SELECT
 -- FD6: (invoice_no, product_id) -> quantity (Enforced by Composite PK on Invoice_Item_3NF)
 
 SELECT 'Dependency Preservation: 100% of Functional Dependencies preserved via relational keys.' AS Verification_Status;
+

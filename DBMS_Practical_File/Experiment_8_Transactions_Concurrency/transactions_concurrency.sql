@@ -243,3 +243,4 @@ COMMIT; -- Lock released immediately upon commit
 -- Final Verification of Database State
 SELECT * FROM Bank_Account;
 SELECT * FROM Transaction_Audit;
+

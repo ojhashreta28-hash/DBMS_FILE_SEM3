@@ -251,3 +251,4 @@ FROM Customer_Account C
 LEFT JOIN Customer_Orders O ON C.customer_id = O.customer_id
 GROUP BY C.customer_id, C.customer_name;
 -- Result: Single hash join / stream aggregate pass over indexed relation!
+

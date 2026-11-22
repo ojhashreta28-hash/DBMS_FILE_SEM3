@@ -123,3 +123,4 @@ Every identified dependency ($FD_1$ through $FD_6$) maps directly to an explicit
 ---
 
 - **Executable SQL Script:** [`normalization.sql`](file:///c:/Users/ojhas/Downloads/DBMS_LAB_FILE/DBMS_Practical_File/Experiment_7_Normalization/normalization.sql)
+

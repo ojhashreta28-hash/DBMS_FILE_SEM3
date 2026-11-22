@@ -221,3 +221,4 @@ WHERE train_no = 12301;
 
 -- Check index usage and cardinalities
 SHOW INDEX FROM Railway_Booking;
+
